@@ -2,6 +2,8 @@ package com.example.demo;
 
 
 // this is a class I build to make changes to the object created in the run time
+
+// this is my second attempt to understand why am i not getting it properly?
 public class Main {
     String name;
     int Age;
